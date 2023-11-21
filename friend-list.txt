@@ -1,22 +1,4 @@
-===========================
-|| Dibakar Sutradhar ||
-===========================
-|| S M Shahadat Hossain ||
-===========================
-|| Reduanul Houque Munna ||
-===========================
-|| Ar Rolin ||
-===========================
-|| Niraj Paudel ||
-===========================
-|| Tanvir Faisal Moon ||
-===========================
-|| Sagar Neupane ||
-===========================
-|| Yadav Lamechane ||
-===========================
-Nur Alam Siddik Ashik-Test Data
-Arabi Ayaz Nur 
-Suraiya Akter 
-Nahera Farudsh Upoma
-Father Name, Mothers Name
+Hasin Hayder 
+Obi Plabon 
+Tom
+Hello World
